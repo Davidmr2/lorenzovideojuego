@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: 87bfe1c1c7f85784d816e52dd2bfa6bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7279300060992548199
+    second: MonkeyKing_0
+  - first:
+      213: 5886662916206859672
+    second: MonkeyKing_1
+  - first:
+      213: -6534383214139874028
+    second: MonkeyKing_2
+  - first:
+      213: 5387847941500788448
+    second: MonkeyKing_3
+  - first:
+      213: 1955106902451674805
+    second: MonkeyKing_4
+  - first:
+      213: 7344803621362829132
+    second: MonkeyKing_5
+  - first:
+      213: -2534389011723541824
+    second: MonkeyKing_6
+  - first:
+      213: 8274067460040669820
+    second: MonkeyKing_7
+  - first:
+      213: 6555767760404952111
+    second: MonkeyKing_8
+  - first:
+      213: -5318335143288155685
+    second: MonkeyKing_9
+  - first:
+      213: -4308898630866644003
+    second: MonkeyKing_10
+  - first:
+      213: 1301070105637032276
+    second: MonkeyKing_11
+  - first:
+      213: -2408391405168945486
+    second: MonkeyKing_12
+  - first:
+      213: -5388354164465829868
+    second: MonkeyKing_13
+  - first:
+      213: -3181679757433460100
+    second: MonkeyKing_14
+  - first:
+      213: -5105991565895656959
+    second: MonkeyKing_15
+  - first:
+      213: 8240945656237653044
+    second: MonkeyKing_16
+  - first:
+      213: 1642410942550169115
+    second: MonkeyKing_17
+  - first:
+      213: 747794822484278336
+    second: MonkeyKing_18
+  - first:
+      213: -5036881110763519290
+    second: MonkeyKing_19
+  - first:
+      213: 4861989097758824377
+    second: MonkeyKing_20
+  - first:
+      213: 3196628701170484720
+    second: MonkeyKing_21
+  - first:
+      213: -4958641586134409835
+    second: MonkeyKing_22
+  - first:
+      213: 5082391078163639893
+    second: MonkeyKing_23
+  - first:
+      213: -8028945111212800073
+    second: MonkeyKing_24
+  - first:
+      213: 1849919582385175920
+    second: MonkeyKing_25
+  - first:
+      213: 4154608973378041661
+    second: MonkeyKing_26
+  - first:
+      213: -9161533449350049351
+    second: MonkeyKing_27
+  - first:
+      213: -3095169314207887360
+    second: MonkeyKing_28
+  - first:
+      213: -94068622565154948
+    second: MonkeyKing_29
+  - first:
+      213: 7191783826401980524
+    second: MonkeyKing_30
+  - first:
+      213: -6724014066791467556
+    second: MonkeyKing_31
+  - first:
+      213: 787267822737474409
+    second: MonkeyKing_32
+  - first:
+      213: -8823063966055864865
+    second: MonkeyKing_33
+  - first:
+      213: 8508367711883087393
+    second: MonkeyKing_34
+  - first:
+      213: -5030917910018455384
+    second: MonkeyKing_35
+  - first:
+      213: -1946113516508703223
+    second: MonkeyKing_36
+  - first:
+      213: -8419830793706724079
+    second: MonkeyKing_37
+  - first:
+      213: 3374068387132250646
+    second: MonkeyKing_38
+  - first:
+      213: -4336109590509704843
+    second: MonkeyKing_39
+  - first:
+      213: 4714039658643551080
+    second: MonkeyKing_40
+  - first:
+      213: -8835550100716764074
+    second: MonkeyKing_41
+  - first:
+      213: -7825625490437527238
+    second: MonkeyKing_42
+  - first:
+      213: 349487398734044396
+    second: MonkeyKing_43
+  - first:
+      213: 8216305889363120657
+    second: MonkeyKing_44
+  - first:
+      213: -6625200342181351078
+    second: MonkeyKing_45
+  - first:
+      213: 7638407912665798282
+    second: MonkeyKing_46
+  - first:
+      213: -5828374377130584947
+    second: MonkeyKing_47
+  - first:
+      213: 707899528354751809
+    second: MonkeyKing_48
+  - first:
+      213: -4065596066295992522
+    second: MonkeyKing_49
+  - first:
+      213: -3438037376566417267
+    second: MonkeyKing_50
+  - first:
+      213: 4452933392421096653
+    second: MonkeyKing_51
+  - first:
+      213: 7451859408448282746
+    second: MonkeyKing_52
+  - first:
+      213: 6090612491963446836
+    second: MonkeyKing_53
+  - first:
+      213: 6506257031555868008
+    second: MonkeyKing_54
+  - first:
+      213: -2032145660479925707
+    second: MonkeyKing_55
+  - first:
+      213: -261893515941898575
+    second: MonkeyKing_56
+  - first:
+      213: -7503617728503919697
+    second: MonkeyKing_57
+  - first:
+      213: -2957083630308235861
+    second: MonkeyKing_58
+  - first:
+      213: -1547237884040109895
+    second: MonkeyKing_59
+  - first:
+      213: -1519228736234687009
+    second: MonkeyKing_60
+  - first:
+      213: -1000079795130464543
+    second: MonkeyKing_61
+  - first:
+      213: -8600898380494177142
+    second: MonkeyKing_62
+  - first:
+      213: -3685745766085056242
+    second: MonkeyKing_63
+  - first:
+      213: -5858989171514912722
+    second: MonkeyKing_64
+  - first:
+      213: 994738315658787205
+    second: MonkeyKing_65
+  - first:
+      213: 1771895648453522611
+    second: MonkeyKing_66
+  - first:
+      213: -726525664563279568
+    second: MonkeyKing_67
+  - first:
+      213: -7214392383288638425
+    second: MonkeyKing_68
+  - first:
+      213: 1310297099188219654
+    second: MonkeyKing_69
+  - first:
+      213: 4958917979390702171
+    second: MonkeyKing_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonkeyKing_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9925f03792bbafa90800000000000000
+      internalID: -7279300060992548199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 223
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89599f0cbb0a1b150800000000000000
+      internalID: 5886662916206859672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 223
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415eaee56153155a0800000000000000
+      internalID: -6534383214139874028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee59f0282b75ca40800000000000000
+      internalID: 5387847941500788448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 191
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedb828e5fe12b10800000000000000
+      internalID: 1955106902451674805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 191
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47855caafbfde560800000000000000
+      internalID: 7344803621362829132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a0912f9a04dcd0800000000000000
+      internalID: -2534389011723541824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ab75b548463d270800000000000000
+      internalID: 8274067460040669820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2435ec4b04cafa50800000000000000
+      internalID: 6555767760404952111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd155db6d5a7136b0800000000000000
+      internalID: -5318335143288155685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 159
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d6065687b334c0800000000000000
+      internalID: -4308898630866644003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 159
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45110622e545e0210800000000000000
+      internalID: 1301070105637032276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b61dc6f6cca39ed0800000000000000
+      internalID: -2408391405168945486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 127
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4187407af68b835b0800000000000000
+      internalID: -5388354164465829868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 127
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa02d2e1768d3d0800000000000000
+      internalID: -3181679757433460100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a16a839bfd329b0800000000000000
+      internalID: -5105991565895656959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 127
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cf7557968bd5270800000000000000
+      internalID: 8240945656237653044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 127
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16dae5ec040bc610800000000000000
+      internalID: 1642410942550169115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 127
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c3d07dd63b06a00800000000000000
+      internalID: 747794822484278336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c019f057691ab0800000000000000
+      internalID: -5036881110763519290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b79cb11351497340800000000000000
+      internalID: 4861989097758824377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5c5140ed4bc5c20800000000000000
+      internalID: 3196628701170484720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d9af9dfbd5f2bb0800000000000000
+      internalID: -4958641586134409835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eee8702c7488640800000000000000
+      internalID: 5082391078163639893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 63
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b74d05e5f4739090800000000000000
+      internalID: -8028945111212800073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 63
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d7b131f0c3ca910800000000000000
+      internalID: 1849919582385175920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 104
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3739d669d228a930800000000000000
+      internalID: 4154608973378041661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b191a12ed1bbd080800000000000000
+      internalID: -9161533449350049351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00013fa58efbb05d0800000000000000
+      internalID: -3095169314207887360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_29
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f5e7f061dc1bef0800000000000000
+      internalID: -94068622565154948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 63
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60f61259495ec360800000000000000
+      internalID: 7191783826401980524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 105
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd53a24e4d08fa2a0800000000000000
+      internalID: -6724014066791467556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963cc55e9efecea00800000000000000
+      internalID: 787267822737474409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 63
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e0b8c11e2e8580800000000000000
+      internalID: -8823063966055864865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_34
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 63
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec13dca5bc31670800000000000000
+      internalID: 8508367711883087393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_35
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 63
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a80337d0d69e2ab0800000000000000
+      internalID: -5030917910018455384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_36
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 63
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90699e351140ef4e0800000000000000
+      internalID: -1946113516508703223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_37
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 63
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1152738d080c62b80800000000000000
+      internalID: -8419830793706724079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_38
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 63
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a94ee425913de20800000000000000
+      internalID: 3374068387132250646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_39
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 63
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57921861d4b03d3c0800000000000000
+      internalID: -4336109590509704843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_40
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 63
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8637d8ee712ab6140800000000000000
+      internalID: 4714039658643551080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_41
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6544c930ff1d16580800000000000000
+      internalID: -8835550100716764074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_42
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 66
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39aa31141bc56390800000000000000
+      internalID: -7825625490437527238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_43
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec940fffe0a9d400800000000000000
+      internalID: 349487398734044396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_44
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112507dacae260270800000000000000
+      internalID: 8216305889363120657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_45
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51fb7ef36f8e04a0800000000000000
+      internalID: -6625200342181351078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_46
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a865afbc683110a60800000000000000
+      internalID: 7638407912665798282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84942152647d1fa0800000000000000
+      internalID: -5828374377130584947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 31
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1456044ded6f2d900800000000000000
+      internalID: 707899528354751809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 31
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa33c0be91497c0800000000000000
+      internalID: -4065596066295992522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 31
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882e35b833a940d0800000000000000
+      internalID: -3438037376566417267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 31
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc0cb7e35ffbcd30800000000000000
+      internalID: 4452933392421096653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 31
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7066bc76a25a6760800000000000000
+      internalID: 7451859408448282746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 31
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436b900cac3368450800000000000000
+      internalID: 6090612491963446836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865664f6c4eda4a50800000000000000
+      internalID: 6506257031555868008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_55
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 31
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5321e3fd94e5cc3e0800000000000000
+      internalID: -2032145660479925707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_56
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 31
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61e4d1c319d5cf0800000000000000
+      internalID: -261893515941898575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_57
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 31
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab433a8e6bcdd790800000000000000
+      internalID: -7503617728503919697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_58
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 31
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5ea540b1456f6d0800000000000000
+      internalID: -2957083630308235861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_59
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 31
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b023c2975b178ae0800000000000000
+      internalID: -1547237884040109895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_60
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 31
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd57a2c738d9aeae0800000000000000
+      internalID: -1519228736234687009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6043899b00f12f0800000000000000
+      internalID: -1000079795130464543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c79611e7873a880800000000000000
+      internalID: -8600898380494177142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a910f0c999dcc0800000000000000
+      internalID: -3685745766085056242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e205ef80460b0bea0800000000000000
+      internalID: -5858989171514912722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ff4d4a350ecd00800000000000000
+      internalID: 994738315658787205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f12154b9079810800000000000000
+      internalID: 1771895648453522611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_67
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394083e1ccdae5f0800000000000000
+      internalID: -726525664563279568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_68
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240cc3d95451eb90800000000000000
+      internalID: -7214392383288638425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_69
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa65bf44c1f2210800000000000000
+      internalID: 1310297099188219654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonkeyKing_70
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5271e7f0ad91d440800000000000000
+      internalID: 4958917979390702171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MonkeyKing_0: -7279300060992548199
+      MonkeyKing_1: 5886662916206859672
+      MonkeyKing_10: -4308898630866644003
+      MonkeyKing_11: 1301070105637032276
+      MonkeyKing_12: -2408391405168945486
+      MonkeyKing_13: -5388354164465829868
+      MonkeyKing_14: -3181679757433460100
+      MonkeyKing_15: -5105991565895656959
+      MonkeyKing_16: 8240945656237653044
+      MonkeyKing_17: 1642410942550169115
+      MonkeyKing_18: 747794822484278336
+      MonkeyKing_19: -5036881110763519290
+      MonkeyKing_2: -6534383214139874028
+      MonkeyKing_20: 4861989097758824377
+      MonkeyKing_21: 3196628701170484720
+      MonkeyKing_22: -4958641586134409835
+      MonkeyKing_23: 5082391078163639893
+      MonkeyKing_24: -8028945111212800073
+      MonkeyKing_25: 1849919582385175920
+      MonkeyKing_26: 4154608973378041661
+      MonkeyKing_27: -9161533449350049351
+      MonkeyKing_28: -3095169314207887360
+      MonkeyKing_29: -94068622565154948
+      MonkeyKing_3: 5387847941500788448
+      MonkeyKing_30: 7191783826401980524
+      MonkeyKing_31: -6724014066791467556
+      MonkeyKing_32: 787267822737474409
+      MonkeyKing_33: -8823063966055864865
+      MonkeyKing_34: 8508367711883087393
+      MonkeyKing_35: -5030917910018455384
+      MonkeyKing_36: -1946113516508703223
+      MonkeyKing_37: -8419830793706724079
+      MonkeyKing_38: 3374068387132250646
+      MonkeyKing_39: -4336109590509704843
+      MonkeyKing_4: 1955106902451674805
+      MonkeyKing_40: 4714039658643551080
+      MonkeyKing_41: -8835550100716764074
+      MonkeyKing_42: -7825625490437527238
+      MonkeyKing_43: 349487398734044396
+      MonkeyKing_44: 8216305889363120657
+      MonkeyKing_45: -6625200342181351078
+      MonkeyKing_46: 7638407912665798282
+      MonkeyKing_47: -5828374377130584947
+      MonkeyKing_48: 707899528354751809
+      MonkeyKing_49: -4065596066295992522
+      MonkeyKing_5: 7344803621362829132
+      MonkeyKing_50: -3438037376566417267
+      MonkeyKing_51: 4452933392421096653
+      MonkeyKing_52: 7451859408448282746
+      MonkeyKing_53: 6090612491963446836
+      MonkeyKing_54: 6506257031555868008
+      MonkeyKing_55: -2032145660479925707
+      MonkeyKing_56: -261893515941898575
+      MonkeyKing_57: -7503617728503919697
+      MonkeyKing_58: -2957083630308235861
+      MonkeyKing_59: -1547237884040109895
+      MonkeyKing_6: -2534389011723541824
+      MonkeyKing_60: -1519228736234687009
+      MonkeyKing_61: -1000079795130464543
+      MonkeyKing_62: -8600898380494177142
+      MonkeyKing_63: -3685745766085056242
+      MonkeyKing_64: -5858989171514912722
+      MonkeyKing_65: 994738315658787205
+      MonkeyKing_66: 1771895648453522611
+      MonkeyKing_67: -726525664563279568
+      MonkeyKing_68: -7214392383288638425
+      MonkeyKing_69: 1310297099188219654
+      MonkeyKing_7: 8274067460040669820
+      MonkeyKing_70: 4958917979390702171
+      MonkeyKing_8: 6555767760404952111
+      MonkeyKing_9: -5318335143288155685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

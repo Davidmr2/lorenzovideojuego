@@ -6,15 +6,15 @@ public class MovimientoJugador : MonoBehaviour
     public float fuerzaSalto = 8f;
 
     private Rigidbody2D rb;
-    private bool enSuelo = true;
-
+    private Animator anim;
+    private bool enSuelo = false;
     private Vector3 escalaOriginal;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
 
-        // Guarda la escala original del personaje
         escalaOriginal = transform.localScale;
     }
 
@@ -22,15 +22,13 @@ public class MovimientoJugador : MonoBehaviour
     {
         float movimiento = Input.GetAxis("Horizontal");
 
-        // Movimiento izquierda y derecha
-        transform.Translate(
-            Vector2.right *
-            movimiento *
-            velocidad *
-            Time.deltaTime
-        );
+        // MOVIMIENTO
+        transform.Translate(Vector2.right * movimiento * velocidad * Time.deltaTime);
 
-        // Girar personaje sin cambiar tamaño
+        // ANIMACIÓN WALK / IDLE
+        anim.SetFloat("Speed", Mathf.Abs(movimiento));
+
+        // GIRAR PERSONAJE
         if (movimiento > 0)
         {
             transform.localScale = new Vector3(
@@ -48,24 +46,24 @@ public class MovimientoJugador : MonoBehaviour
             );
         }
 
-        // Salto
+       
         if (Input.GetKeyDown(KeyCode.Space) && enSuelo)
         {
-            rb.linearVelocity = new Vector2(
-                rb.linearVelocity.x,
-                fuerzaSalto
-            );
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, fuerzaSalto);
+            anim.SetTrigger("Jump");
 
             enSuelo = false;
         }
     }
 
+   
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.name == "Suelo")
-        {
-            enSuelo = true;
-        }
+        enSuelo = true; // 🔥 cualquier contacto = puede saltar
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        enSuelo = false;
     }
 }
-

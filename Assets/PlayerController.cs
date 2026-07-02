@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MovimientoJugador : MonoBehaviour
 {
@@ -46,7 +47,6 @@ public class MovimientoJugador : MonoBehaviour
             );
         }
 
-       
         if (Input.GetKeyDown(KeyCode.Space) && enSuelo)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, fuerzaSalto);
@@ -56,10 +56,15 @@ public class MovimientoJugador : MonoBehaviour
         }
     }
 
-   
     private void OnCollisionEnter2D(Collision2D collision)
     {
         enSuelo = true; // 🔥 cualquier contacto = puede saltar
+
+        // Si toca un enemigo, reinicia la escena
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 
     private void OnCollisionExit2D(Collision2D collision)

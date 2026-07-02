@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Collectible
   - Collectibles
+  - Enemy
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - Collectibles
   - Water
   - UI
-  - 
+  - Enemies
   - 
   - 
   - 

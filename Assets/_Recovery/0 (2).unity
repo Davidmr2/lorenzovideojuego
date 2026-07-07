@@ -582,7 +582,7 @@ Rigidbody2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 425369535}
   m_BodyType: 0
-  m_Simulated: 1
+  m_Simulated: 0
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
@@ -599,7 +599,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!212 &425369540
 SpriteRenderer:
   serializedVersion: 2
@@ -650,7 +650,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 4723107735738678597, guid: 2cf4376603caf584aaca034f0cdba537, type: 3}
-  m_Color: {r: 0.9490196, g: 0.30980393, b: 0.8784314, a: 1}
+  m_Color: {r: 0.754717, g: 0.754717, b: 0.754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -669,7 +669,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.266, y: 3.272, z: 0}
-  m_LocalScale: {x: 1.8551629, y: 1.9520923, z: 1}
+  m_LocalScale: {x: 1.855163, y: 1.9520923, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -686,17 +686,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26e64e63879da99479ba6eeabecdf66f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy2Controller
-  speed: 1
+  speed: 2
   leftLimit: 3
-  rightLimit: 6.5
-  player: {fileID: 1632098536}
-  detectionRange: 4.5
-  chaseSpeed: 2
-  samePlatformHeight: 0.5
-  minAttackDelay: 4
-  maxAttackDelay: 5
-  attackDuration: 3
-  attackRange: 2
+  rightLimit: 8
 --- !u!1 &486851417
 GameObject:
   m_ObjectHideFlags: 0
